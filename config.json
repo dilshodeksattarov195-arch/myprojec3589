@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercave",
+        "uuid": 1109001,
+        "checksum": "f6224e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
